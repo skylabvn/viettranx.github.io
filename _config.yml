@@ -2,9 +2,9 @@
 title: Viettranx's Tek Blog
 motto: Mình tạo page để lưu lại kiến thức cũng như chia sẻ để học được nhiều hơn :)
 email: viettrax@gmail.com
-description: Tek Blog - Những kiến thức lập trình C, Objective-C, iOS và Mac OSX.
+description: "Tek Blog - Những kiến thức lập trình C, Objective-C, iOS và Mac OSX."
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://viettranx.github.io" # the base hostname & protocol for your site
 
 facebookID: "viettranx"
 # Build settings
