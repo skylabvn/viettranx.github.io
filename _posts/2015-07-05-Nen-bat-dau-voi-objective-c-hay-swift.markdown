@@ -2,7 +2,7 @@
 layout: post
 title:  "[Góc nhìn] Khi mới bắt đầu nên học Swift hay Objective-C"
 date:   2015-07-05
-categories: Objective-C variable
+categories: Objective-C Swift
 ---
 ## Hãy ngừng tìm lý do để học Swift
 Nếu chúng ta tra cứu trên Google đại loại như `Should I learn Swift or Objective C` sẽ cho ra hàng tá kết quả, hay thậm chí là những bài viết như `69 lý do nên học swift và 96 lý do nên học ObjC` =)). Ta có thể liên tưởng tới những câu hỏi như: `Tôi muốn học đánh đàn Guitar, tôi nên học classic hay đệm hát`, hay `Có nên học organ trước khi học piano không` hay gần gũi hơn một chút là `Làm game trên iOS nên học Cocos2D hay Unity hay là SpriteKit...`. Dù những câu hỏi trên có phần khác biệt và so sánh khập khiễng hơn nhiều so với Swift và Objective-C nhưng nhìn chung thì cũng là 1 vấn đề mà ra. Những câu hỏi đại loại như trên theo mình là những câu hỏi tốn băng thông và dung lượng server nhiều nhất vì những cuộc tranh luận không có hồi kết.
