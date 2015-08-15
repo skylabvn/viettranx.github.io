@@ -1,10 +1,11 @@
-$(function() {
+//$(function() {
 	$('div.youtube').each(function() {
+		console.log('a');
 		yID = $(this).attr('yID');
 		yW	= $(this).attr('yW') ? $(this).attr('yW') : 420;
 		yH	= $(this).attr('yH') ? $(this).attr('yH') : 315;
 
 		$(this).append('<iframe width="'+yW+'" height="'+yH+'" src="https://www.youtube.com/embed/'+yID+'" frameborder="0" allowfullscreen></iframe>');
 	});
-});
+//});
 
