@@ -1,4 +1,5 @@
 //$(function() {
+	alert('Test script');
 	$('div.youtube').each(function() {
 		console.log('a');
 		yID = $(this).attr('yID');
