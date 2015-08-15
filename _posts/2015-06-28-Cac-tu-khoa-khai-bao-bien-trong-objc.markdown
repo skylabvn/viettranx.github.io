@@ -17,7 +17,7 @@ int add(int a, int c)
 }
 {% endhighlight %}
 Trong chương trình trên, biến `c` được gọi là automatic variable hay local variable.
-
+<!--more-->
 Biến local được tạo trong vùng nhớ `Stack`. Chúng sẽ tồn tại từ lúc khai báo đến khi kết thúc hàm (`function`). Như cơ chế đã nói ở bài trước thì bản thân hàm add trong đoạn code trên sẽ được đặt vào stack frame, khi hàm add kết thúc, con trỏ sẽ dịch chuyển lên vị trí trước đó. Và nếu lúc này ta gọi tiếp hàm add nữa thì con trỏ sẽ dùng lại stack frame này và overide lại vùng nhớ cho nó. Nhưng vì biến c được khai báo không có khởi tạo giá trị nên nó sẽ nhớ giá trị cũ (từ stack frame trước) cho tới khi ta gán cho nó giá trị mới.
 
 Sở dĩ nó gọi là automatic varible là vì các biến này luôn tự tạo trong vùng nhớ Stack và được tự động quản lý bởi chương trình chứ không xin cấp phát và trả lại như Heap. Từ khóa này cũng là khai báo mặc định nên rất hiếm khi được sử dụng.

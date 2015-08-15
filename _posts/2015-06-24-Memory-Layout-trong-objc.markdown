@@ -9,7 +9,7 @@ categories: Objective-C memory
 Trong một chương trình đang chạy chúng ta biết nó sẽ được hệ điều hành cấp phát 1 lượng bộ nhớ (memory) nhất định để phục vụ cho chương trình. Nhưng lượng memory này không đồng nhất mà chia thành nhiều phần:
 <img style="display:block" src="/images/memory-layout.png" />
 Hình trên cho ta thấy cấu trúc memory trong chương trình Objective-C, hay còn gọi là `virtual address space`. Đây là vùng địa chỉ bộ nhớ mà chương trình có thể nhìn thấy, việc chuyển đổi giữa virtual address space và `physical addresses` được thực hiện bởi ([Memory Management Unit - MMU](https://en.wikipedia.org/wiki/Memory_management_unit)), đây là công việc của OS và chạy ẩn bên dưới, chương trình sẽ không quan tâm về điều này.
-
+<!--more-->
 Đi từ thấp lên cao ta sẽ có:
 
 * `Text Segment`: đây là vùng nhớ "cứng" hay `read-only`. Vùng nhớ này sẽ chứa code thực thi chương trình và những biến ready-only.

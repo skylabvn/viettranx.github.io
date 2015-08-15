@@ -8,7 +8,7 @@ categories: Objective-C Swift
 Nếu chúng ta tra cứu trên Google đại loại như `Should I learn Swift or Objective C` sẽ cho ra hàng tá kết quả, hay thậm chí là những bài viết như `69 lý do nên học swift và 96 lý do nên học ObjC` =)). Ta có thể liên tưởng tới những câu hỏi như: `Tôi muốn học đánh đàn Guitar, tôi nên học classic hay đệm hát`, hay `Có nên học organ trước khi học piano không` hay gần gũi hơn một chút là `Làm game trên iOS nên học Cocos2D hay Unity hay là SpriteKit...`. Dù những câu hỏi trên có phần khác biệt và so sánh khập khiễng hơn nhiều so với Swift và Objective-C nhưng nhìn chung thì cũng là 1 vấn đề mà ra. Những câu hỏi đại loại như trên theo mình là những câu hỏi tốn băng thông và dung lượng server nhiều nhất vì những cuộc tranh luận không có hồi kết.
 
 Thay vì bỏ thời gian đọc tất cả những bài viết về vấn đề trên, ta cứ tìm hiểu Objective-C là gì, Swift là gì và tại sao Apple lại phải tạo ra ngôn ngữ mới khi mọi thứ đang tốt đẹp. Mặc dù ObjC đã là ngôn ngữ trưởng thành (với hơn 31 tuổi đời), nhưng xét về cú pháp hay cách sử dụng thể thành thạo thì đây lại là một ngôn ngữ quá khó so với phần còn lại. Với sự vận động và phát triển mạnh mẽ từ các ngôn ngữ trẻ, cũng như ngôn ngữ kịch bản (js là một ví dụ) đang ngày càng thông minh hơn thì Apple cũng không thể đứng nhìn được. Swift ra đời nhằm phá bỏ rào cản này với các developer.
-
+<!--more-->
 ## Swift vẫn tuyệt vời dù còn vài điểm đáng xem xét
 Nói tới đây thì Swift rất dễ học và nắm bắt nhanh, đặc biệt với những ai đã từng làm việc với Javascript, Ruby hoặc các ngôn ngữ OOP khác. Nhưng vẫn tồn tại một số vấn đề đáng xem xét như:
 

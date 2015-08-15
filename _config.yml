@@ -11,6 +11,7 @@ facebookID: "viettranx"
 markdown: kramdown
 highlighter: pygments
 timezone: Asia/Ho_Chi_Minh
+excerpt_separator: <!--more-->
 
 # Config disqus
 disqus_shortname: viettx

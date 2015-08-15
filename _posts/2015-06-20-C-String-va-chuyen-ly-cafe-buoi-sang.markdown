@@ -18,7 +18,7 @@ int main(int argc, char const *argv[])
 Ở dòng thứ 6, cuối dòng, có cái gì đó rất lạ: `4[str]`. Đoạn mã trên có vẻ như người viết có lẽ muốn lấy character thứ 5 trong chuỗi `str` nhưng thay vì khai báo là `str[4]` anh ta đã nhầm với `4[str]`, vì 4 là kiểu số nguyên `Int` thì làm sao lại có index được ?!?
 
 Ông bạn mình thì cho rằng ngược lại, đoạn code trên chạy đúng và thử nếu chạy được thì mình phải trả tiền cafe, nếu không thì cậu ấy khao mình chầu này. OK để xem hôm nay có được free cafe không :D
-
+<!--more-->
 <h3>C String / Char Array</h3>
 
 Tạm thời gác ly cafe qua một bên vì nó cũng không chạy đi đâu được. Trước tiên một số khái niệm cơ bản về kiểu `String` trong C:
