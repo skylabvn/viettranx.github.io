@@ -4,8 +4,6 @@ title:  "Test youtube in post"
 categories:
 tags:
 ---
-
-### [Sandi Metz at RailsConf 2015 - Nothing is Something](http://confreaks.tv/videos/railsconf2015-nothing-is-something){:target="_blank"}
 <br />
 <div class="youtube" id="29MAL8pJImQ"></div>
 <br />
