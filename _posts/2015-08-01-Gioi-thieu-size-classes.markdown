@@ -8,5 +8,5 @@ Từ iOS 7, Apple đã ra mắt một cơ chế mới trên `Interface Builder` 
 - Vị trí, kích thước của các view có thể khác nhau.  
 - Các constraint có thể bật tắt, thay đổi constant.  
 - UILabel có thể thay đổi Font cho từng size class.  
-- ...
-{% youtube Fu5fZ6tseD4 420 315 %}
+- ...  
+<div class="youtube" yID="Fu5fZ6tseD4"></div>
