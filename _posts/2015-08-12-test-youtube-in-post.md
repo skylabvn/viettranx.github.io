@@ -5,7 +5,7 @@ categories:
 tags:
 ---
 
-### Sandi Metz at RailsConf 2015 - Nothing is Something
+### [Video on Youtube](#)
 <br />
 <div class="youtube" id="29MAL8pJImQ"></div>
 <br />
