@@ -23,7 +23,7 @@ Tất cả những vấn đề trên Apple sẽ nhanh chóng xóa bỏ khi mà h
 Một trong những minh chứng cho sự cám dỗ khủng khiếp của Swift là các blog về ios trước đây họ viết cho Objective-C nay đã chuyển dần sang Swift, hay thậm chí là họ viết lại các bài cũ với ngôn ngữ mới này. Các thư viện cho Swift cũng đang ngày một nhiều hơn với tốc độ chóng mặt. Về phía Apple, từ khi họ công bố Swift thì các videos WWDC cũng đã chuyển qua demo code trên Swift.
 
 ## Objective-C cũng vẫn tồn tại cùng Swift
-Thế nhưng việc khai tử Objective-C trong tương lai là một nhận sai lầm. Mình chưa bao giờ thấy một ngôn ngữ lập trình bị khai tử cả, có chăng chúng ít được sử dụng đi thôi. Nói như vậy cũng không có nghĩa những ai đang cố chấp bám trụ với Objective-C thì cứ vẫn như thế. Hãy cứ thử làm 1 app đơn giản với Swift, bạn sẽ thấy nó thú vị không kém gì ngôn ngữ Objective-C hiện tại.
+Thế nhưng việc khai tử Objective-C trong tương lai là một nhận định sai lầm. Mình chưa bao giờ thấy một ngôn ngữ lập trình bị khai tử cả, có chăng chúng ít được sử dụng đi thôi. Nói như vậy cũng không có nghĩa những ai đang cố chấp bám trụ với Objective-C thì cứ vẫn như thế. Hãy cứ thử làm 1 app đơn giản với Swift, bạn sẽ thấy nó thú vị không kém gì ngôn ngữ Objective-C hiện tại.
 
 Thêm một điều cực kỳ quan trọng là vì Swift được phát triển trên cùng một nền tảng với Objective-C, cùng bộ biên dịch nên trong cùng một project ta có thể dùng cả 2. Wow ^^
 
