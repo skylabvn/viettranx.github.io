@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 <div class="home">
   <ul class="post-list">
     {% for post in site.posts %}
@@ -15,7 +14,7 @@ layout: default
 		<div class="content">
 		{{ post.excerpt }}
         </div>
-		<br>
+    <a style="color: #1756a9;" href="{{ post.url | prepend: site.baseurl }}">Read more ...</a>
       </li>
     {% endfor %}
   </ul>
