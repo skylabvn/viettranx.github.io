@@ -2,7 +2,7 @@
 layout: post
 title:  "Core Animation - CALayer"
 date:   2015-08-10
-categories: Objective-C Swift
+categories: Animation
 ---
 ## Core Animation
 Core Animation lies at the heart of both iOS and MacOS. It is a graphic rendering and animating infrastructure that you can use to animate views in your apps. With Core Animation, most of the works required are setting few animation parameters (such as start point and end point, duration), Core Animation does the rest.
